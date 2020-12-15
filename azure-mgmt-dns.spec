@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-dns
 Version  : 3.0.0
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/7e/6a/12dd4ef49b8fa5bc3ed60a9d155fc593fe010533056949318c03d5be05e2/azure-mgmt-dns-3.0.0.zip
 Source0  : https://files.pythonhosted.org/packages/7e/6a/12dd4ef49b8fa5bc3ed60a9d155fc593fe010533056949318c03d5be05e2/azure-mgmt-dns-3.0.0.zip
 Summary  : Microsoft Azure DNS Management Client Library for Python
